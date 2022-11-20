@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SFU(Strategy First University
+- 🔭 I’m currently working on A Bank
 - 🌱 I’m currently learning Swift(IOS)
 
 
